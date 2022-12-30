@@ -15,6 +15,6 @@
   "devDependencies": {
     "axe-core": "^3.3.2",
     "cypress-axe": "^0.5.1",
-    "mocha": "^6.2.1"
+    "mocha": "^10.2.0"
   }
 }
